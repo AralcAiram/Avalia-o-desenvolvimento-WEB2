@@ -1,2 +1,3 @@
 # Avalia-o-desenvolvimento-WEB2
 Repositório sobre a segunda prova do segundo trimestre.
+Eu optei por colocar cores terras no meu site, para dar um estilo "dark academy", clássica e antiga. Coloquei uma logo "Livraria Online Airam" com borda, um slogan de uma frase só, simples e direta. Inputs de pesquisa, e os básicos como: início, entrar, contato e curtir. Coloquei as listas ordenadas e desordenadas como livros em promoção e os preços. E como é um site de vendas de livros, coloquei os mais vendidos em destaque, com sinopses, imagens e preços aparentes. E coloquei as tabelas com informações mais "técnicas" sobre os produtos.
